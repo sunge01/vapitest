@@ -1,0 +1,4 @@
+GROUP-NAME:/booksforall.com/v1/bookstore/book
+PAIR-NAME:pair-0 POST /booksforall.com/v1/bookstore/book
+POST /booksforall.com/v1/bookstore/book?title={title}&author={author}&publisher={publisher}
+
