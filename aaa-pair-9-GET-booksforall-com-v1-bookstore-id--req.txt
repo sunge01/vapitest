@@ -1,0 +1,4 @@
+GROUP-NAME:/booksforall.com/v1/bookstore/{id}
+PAIR-NAME:pair-9 GET /booksforall.com/v1/bookstore/{id}
+GET /booksforall.com/v1/bookstore/{id} 
+
